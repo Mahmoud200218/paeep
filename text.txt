@@ -1,0 +1,7 @@
+* PaymentMethods && -m // Model
+* app/PaymentGateways // 
+* app/PaymentGateways/PaymentGateway // interface
+* Install PayPal from Checkout github SDK
+* Payment && -m // Model
+
+-- important // Add currency_code column to donates table
